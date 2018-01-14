@@ -35,7 +35,6 @@
     "plugins": [
       "syntax-dynamic-import",
       "transform-class-properties",
-      "transform-object-assign",
       [
         "module-resolver",
         {
